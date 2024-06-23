@@ -7,9 +7,8 @@
 
 ## Overview of the Project
 
-### Project: USER-CENTERED DESIGN FOR HEALTHCARE APP
+### Project: MOBILE APP WIREFRAMING
 
 ### Objective:
-Design a user-centered healthcare app that helps patients manage their health conditions, track medications, and communicate with healthcare providers. Conduct user research, create user personas, and prioritize accessibility and usability considerations in the design process.
-
+Create wireframes for a mobile app idea of your choice using design tools like Figma, Sketch, or Adobe XD. Define the app's navigation flow, screen layouts, and basic UI elements to convey the app's functionality and user interaction.
 ### Result:
