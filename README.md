@@ -12,3 +12,4 @@
 ### Objective:
 Create wireframes for a mobile app idea of your choice using design tools like Figma, Sketch, or Adobe XD. Define the app's navigation flow, screen layouts, and basic UI elements to convey the app's functionality and user interaction.
 ### Result:
+![Wireframe](https://github.com/user-attachments/assets/8ac09413-c0cf-4f72-aac7-61d9ef9a1554)
