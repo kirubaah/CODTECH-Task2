@@ -18,6 +18,7 @@ Create wireframes for a mobile app idea of your choice using design tools like F
 ![Wireframe](https://github.com/user-attachments/assets/6441f4c4-fff9-446b-85a6-998e02b350fb)
 ![Layout](https://github.com/user-attachments/assets/84da6153-0713-4551-9b39-2bc4a560eeab)
 ![Features](https://github.com/user-attachments/assets/f19dddfe-eeb9-49eb-8b0d-e39d2fc1c21c)
+![Image](https://github.com/user-attachments/assets/ba0255cd-0eb3-48a1-acc8-38a0ae93f9ce)
 
 ### Links:
 [Figma](https://www.figma.com/community/file/1394260589279600423/shawarma-food-ordering-delivery-app) | [Behance](https://www.behance.net/gallery/203214199/ShawArma-Food-Ordering-Delivery-App) | [Linkedin](https://www.linkedin.com/posts/s-kirubakaran_shawarma-figma-uidesign-activity-7218201103727828993-UmqD?utm_source=share&utm_medium=member_desktop)
